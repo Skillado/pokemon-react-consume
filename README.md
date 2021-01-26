@@ -2,7 +2,7 @@
 Treinamento da Dextra, recebendo informações da API de pokemon.
 
 
-##Versão do Davi 
+## Versão do Davi 
 Entrar na pasta repostas e dar um `npm start`
 
 ## Versão minha
